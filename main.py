@@ -1,7 +1,7 @@
 # This is a competitive policy option that I advocate for.
 import requests as r
 import time
-time.sleep(1)
+time.sleep(2000000)
 
 hi = r.get('https://legiscan.com/US/legislation?status=passed')
 
